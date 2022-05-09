@@ -15,14 +15,15 @@
 Rules: https://eslint.org/docs/rules/
 Airbnb Code Style: https://github.com/airbnb/javascript
 
-Primero instale todo lo necesario desde package.json, lint y express
+## Pasos
+1. Primero instale todo lo necesario desde package.json, lint y express
 
-Segundo cree todas la clases que se solicitaron la capeta de lib
+2. Segundo cree todas la clases que se solicitaron la capeta de lib
 
-Tercero en lib/Controlls junte todas la clases que hice anteriormente
+3. Tercero en lib/Controlls junte todas la clases que hice anteriormente
 
-Cuarto en lib/utils creas el server.js para usar express donde solicte cada una de las clase para consultar 
-información
-Quinto los Test hice cada uno los test y sus requerimeinto segun nuestro proyecto
+4. Cuarto en lib/utils creas el server.js para usar express donde solicte cada una de las clase para consultar la información
 
-Y como dice el MissionComander si una prueba no falla no confies en ella.
+5. Quinto los Test hice cada uno los test y sus requerimeinto segun nuestro proyecto
+
+6. Y como dice el MissionComander si una prueba no falla no confies en ella.
