@@ -19,9 +19,9 @@ describe("Test para ExplorerServices",()=>{
         expect(cantidad.length).toBe(1);
     });
     test("Requerimeinto 4: FizzBuzz",()=>{
-        const explorers= [{score:1}];
+        const explorers= {name: "Explorer15", score:15};
         const fizz= Fizzbuz.applyValidationInExplorer(explorers);
-        expect(fizz.length).toBe(1);
+        expect(fizz).toBe("FIZZBUZZ");
     });
     test("Requerimiento 5: Lectura",()=>{
         const lectura= Reader.readJsonFile();
